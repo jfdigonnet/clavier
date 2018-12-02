@@ -1,0 +1,19 @@
+[Desktop Entry]
+Comment[fr_FR]=
+Comment=
+Exec=./clavier.sh
+GenericName[fr_FR]=Apprentissage du clavier
+GenericName=Apprentissage du clavier
+Icon=./text-speak.png
+MimeType=
+Name[fr_FR]=Apprentissage du clavier
+Name=Apprentissage du clavier
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
